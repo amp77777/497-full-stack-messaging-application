@@ -27,4 +27,7 @@ uvicorn app:app --reload
 ### Client
 cd secure-messenger/client
 pip install -r requirements.txt
-python gui_client.py
+py gui_client.py
+
+### Youtube Link
+https://youtu.be/LxXW-xcP3IY
